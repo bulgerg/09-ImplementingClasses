@@ -7,6 +7,7 @@ Authors: David Mutchler, Vibha Alangar, Dave Fisher, Amanda Stouder,
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 import math
 
+
 class Point(object):
     def __init__(self, x, y):
         self.x = x
